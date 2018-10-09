@@ -1,5 +1,17 @@
 a{text-decoration: none;}
 
+#sidebar{
+margin: 0px;
+position: fixed;
+top: 0px;
+left: 0px;
+bottom: 0px;
+background-color: #2f3640;
+width: 80px;
+display: flex;
+justify-content: center;
+}
+
 .presentation{
  text-align: center;
 }
@@ -46,7 +58,8 @@ a{text-decoration: none;}
 
 .t1{
   text-align: center;
-  margin-left: 150px;
+  margin-left: 100px;
+  margin-top: 80px;
   padding-right: 300px;
 }
 
