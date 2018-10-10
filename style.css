@@ -1,5 +1,9 @@
 /* a{text-decoration: none;} */
 
+html{
+  scroll-behavior: smooth;
+}
+
 #sidebar{
 margin: 0px;
 position: fixed;
